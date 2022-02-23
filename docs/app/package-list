@@ -1,0 +1,20 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.example.drawerexp.ui.theme////PointingToDeclaration/app/com.example.drawerexp.ui.theme/index.html
+$dokka.location:com.example.drawerexp.ui.theme//DrawerExpTheme/#kotlin.Boolean#kotlin.Function0[kotlin.Unit]/PointingToDeclaration/app/com.example.drawerexp.ui.theme/-drawer-exp-theme.html
+$dokka.location:com.example.drawerexp.ui.theme//Purple200/#/PointingToDeclaration/app/com.example.drawerexp.ui.theme/-purple200.html
+$dokka.location:com.example.drawerexp.ui.theme//Purple500/#/PointingToDeclaration/app/com.example.drawerexp.ui.theme/-purple500.html
+$dokka.location:com.example.drawerexp.ui.theme//Purple700/#/PointingToDeclaration/app/com.example.drawerexp.ui.theme/-purple700.html
+$dokka.location:com.example.drawerexp.ui.theme//Shapes/#/PointingToDeclaration/app/com.example.drawerexp.ui.theme/-shapes.html
+$dokka.location:com.example.drawerexp.ui.theme//Teal200/#/PointingToDeclaration/app/com.example.drawerexp.ui.theme/-teal200.html
+$dokka.location:com.example.drawerexp.ui.theme//Typography/#/PointingToDeclaration/app/com.example.drawerexp.ui.theme/-typography.html
+$dokka.location:com.example.drawerexp////PointingToDeclaration/app/com.example.drawerexp/index.html
+$dokka.location:com.example.drawerexp//DefaultPreview/#/PointingToDeclaration/app/com.example.drawerexp/-default-preview.html
+$dokka.location:com.example.drawerexp//Greeting/#kotlin.String/PointingToDeclaration/app/com.example.drawerexp/-greeting.html
+$dokka.location:com.example.drawerexp/MainActivity///PointingToDeclaration/app/com.example.drawerexp/-main-activity/index.html
+$dokka.location:com.example.drawerexp/MainActivity/MainActivity/#/PointingToDeclaration/app/com.example.drawerexp/-main-activity/-main-activity.html
+$dokka.location:com.example.drawerexp/ProfileDrawerState///PointingToDeclaration/app/com.example.drawerexp/-profile-drawer-state/index.html
+$dokka.location:com.example.drawerexp/ProfileDrawerState/createOrGet/#/PointingToDeclaration/app/com.example.drawerexp/-profile-drawer-state/create-or-get.html
+com.example.drawerexp
+com.example.drawerexp.ui.theme
+

@@ -45,7 +45,9 @@ android {
         }
     }
 }
-
+tasks.dokkaHtml.configure {
+    outputDirectory.set(file("../docs"))
+}
 dependencies {
 
     implementation 'androidx.core:core-ktx:1.7.0'
