@@ -10,8 +10,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/repo" />
+            <option value="$PROJECT_DIR$/dokkamultimodule" />
+            <option value="$PROJECT_DIR$/dokkamultimodule/lib" />
+            <option value="$PROJECT_DIR$/dokkamultimodule/myapplication" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

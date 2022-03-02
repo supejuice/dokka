@@ -13,5 +13,6 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "Drawer exp"
-include ':app'
-include ':repo'
+include ':dokkamultimodule'
+include ':dokkamultimodule:myapplication'
+include ':dokkamultimodule:lib'
